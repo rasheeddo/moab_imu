@@ -1,0 +1,7 @@
+exampl of imu driver in ROS
+
+https://github.com/jusgomen/ros-mpu9250-imu/blob/master/src/talker.cpp
+
+https://github.com/wolfeidau/ros-mpu9250-node/blob/master/src/mpu9250_node.cpp
+
+https://github.com/pcdangio/ros-driver_mpu9250/blob/master/src/ros_node.cpp
